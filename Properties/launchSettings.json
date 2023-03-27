@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChatGptCaller": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}
